@@ -1,3 +1,0 @@
-[output]
-dist = "dist"
-cache_busting = true
